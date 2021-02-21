@@ -44,7 +44,7 @@ This repository hosts materials which describe the structure and operation this 
 |Thursday                  |9:30 AM - 12:00 PM  |
 |Friday                    |2:30 - 4:00 PM      |
 
-To schedule an appointment, visit [my faculty page](http://cs.allegheny.edu/sites/dluman).  Should none of the above times work for your schedule, let me know:  we can work out a better time either via email or our course’s [Slack workspace](https://cmpsc-481-sp-2021.slack.com).
+To schedule an appointment, visit [my faculty page](http://cs.allegheny.edu/sites/dluman). Should none of the above times work for your schedule, let me know:  we can work out a better time either via email or our course’s [Slack workspace](https://cmpsc-481-sp-2021.slack.com).
 
 #### Required texts
 
@@ -52,14 +52,14 @@ I will supply either links to or reproductions of any reading material assigned.
 
 #### Canonical course description
 
-A continuation of CMPSC 480, with a focus on the collaborative enhancement of innovative software. While partnering with members of the course and receiving mentorship from experts in thesoftware community, students document, improve, and maintain a publicly available software tool.During a weekly practical session, students use state-of-the-art technology to complete and releasea significant software product, describing it through oral presentations and written documents fea-tured on a web site.
+A continuation of CMPSC 480, with a focus on the collaborative enhancement of innovative software. While partnering with members of the course and receiving mentorship from experts in the software community, students document, improve, and maintain a publicly available software tool.During a weekly practical session, students use state-of-the-art technology to complete and releasea significant software product, describing it through oral presentations and written documents featured on a web site.
 
 * Prerequisite Knowledge: `CMPSC 203` and `CMPSC 480`
 * Distribution Requirements: None
 
 #### Less canonical, but still official, course description
 
-`CMPSC 480` helped you learn skills centered on self-presentation. Though you will spend a fair bit ofyour career refining and growing these abilities, working in the disciplines directly and tangentially-related to computer science often requires the real goods: projects. While many developers credit involvement in open source projects as their true career launchpad, even those who successfully navigated the maze of “Pull Requests” and endless pages of releasenotes and discussion often admit that barriers to their first contribution were steep. As a developer, you're familiar with using open source software. Even as just a passive consumer of the web, you’ve undoubtedly been exoposed to it: in fact, you wouldn't be reading this document right now without it. This course focuses on transforming you from a user to a contributor or, if you’re already part of a public project, growing your open source profile.
+`CMPSC 480` helped you learn skills centered on self-presentation. Though you will spend a fair bit of your career refining and growing these abilities, working in the disciplines directly and tangentially-related to computer science often requires the real goods: projects. While many developers credit involvement in open source projects as their true career launchpad, even those who successfully navigated the maze of “Pull Requests” and endless pages of releasenotes and discussion often admit that barriers to their first contribution were steep. As a developer, you're familiar with using open source software. Even as just a passive consumer of the web, you’ve undoubtedly been exoposed to it: in fact, you wouldn't be reading this document right now without it. This course focuses on transforming you from a user to a contributor or, if you’re already part of a public project, growing your open source profile.
 
 #### Learning objectives
 
@@ -108,7 +108,8 @@ The semester is composed of three (3) Cycles, each running roughly two-and-a-hal
 
 Students in the Developer role are responsible for implementing solutions to either bugs or feature requests documented by the team-chosen project’s community. These students should implement and follow best practices for software engineering developed in `CMPSC203`. This role includes, but is not limited to:
 
-* Developing code to solve an issue or implement a feature Conducting initial, shallow testing of developed code
+* Developing code to solve an issue or implement a feature 
+* Conducting initial, shallow testing of developed code
 * Providing adequate inline documentation per the standards of the community to which contribution is being made
 * Collaborating with team members to implement and conduct thorough requirements-gathering
 
@@ -166,7 +167,7 @@ Keep both of these standards in mind as you exercise your academic inquiry in th
 
 All students and faculty at Allegheny College are bound by the Honor Code. Everyone expects that your behavior reflects this commitment. Given the eminently shareable and reproducible nature of code, the Department of Computer Science adds the following statement to the general college policy:
 
-> It is recognized that an important part of the learning process in any course, and particularly in computer science, derives from thoughtful discussions with teachers, student assistants, and fellow students.  Such dialogue is encouraged.  However, it is necessary to distinguish carefully between the student who discusses the principles underlying a problem with others, and the student who produces assignments that are identical to, or merely variations on, someone else’s work.  It will therefore be understood that all assignments submitted to faculty of the Department of Computer Science are to be the original work of the student submitting the assignment, and should be signed in accordance with the provisions of the Honor Code.  Appropriate action will be taken when assignments give evidence that they were derived from the work of others.
+> It is recognized that an important part of the learning process in any course, and particularly in computer science, derives from thoughtful discussions with teachers, student assistants, and fellow students. Such dialogue is encouraged. However, it is necessary to distinguish carefully between the student who discusses the principles underlying a problem with others, and the student who produces assignments that are identical to, or merely variations on, someone else’s work. It will therefore be understood that all assignments submitted to faculty of the Department of Computer Science are to be the original work of the student submitting the assignment, and should be signed in accordance with the provisions of the Honor Code. Appropriate action will be taken when assignments give evidence that they were derived from the work of others.
 
 As the nature of "plagiarism" and constituents of "fair use" change often, the department encourages you to periodically review the specific tenets of the general college Honor Code provided in the latest course catalog and in the _Compass_.
 
